@@ -6,11 +6,17 @@ These days, people who do manual work often receive far more money than people w
 
 
 
+
+
+
+
 People who work in offices are frequently referred to as 'white-collar workers' for the simple reason that they usually wear a collar and tie to go to work.
 
 坐办公室的人们通常被人称为“白领工人”，只是因为他们上班时都会穿白衬衫，系领带。
 
 PS: refer to，被称为...，参考...
+
+
 
 
 
@@ -30,6 +36,8 @@ PS++++: This can give rise to curious situations, ...会引来奇怪的现象
 
 
 
+
+
 When he got married, Alf was too embarrassed to say anything to his wife about his job. He simply told her that he worked for the Corporation.
 
 当他结婚的时候，艾尔弗感到很尴尬，他没有告诉妻子他的工作，只是简单地说他在艾里斯梅尔公司上班。
@@ -40,9 +48,13 @@ PS：too ... to， 太...以至于不能...
 
 
 
+
+
 Every morning, he left home dressed in a smart black suit. He then changed into overalls and spent the next eight hours as a dustman.
 
 他每天早晨离开家时，都会穿一件很时髦的黑色西装。 然后换上工作服，当8个小时的清洁工。
+
+
 
 
 
@@ -58,9 +70,13 @@ PS：fellow, 簇拥，伙伴，此处译为“同事”。
 
 
 
+
+
 Alf's wife has never discovered that she married a dustman and she never will, for Alf has just found another job. He will soon be working in an office.
 
 但是艾尔弗的妻子从未发现，而且也不可能再发现他与一个清洁工结了婚，因为艾尔弗找到了另一份坐办公室的工作。
+
+
 
 
 
