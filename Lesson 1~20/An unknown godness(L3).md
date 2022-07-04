@@ -2,6 +2,10 @@ Some time ago, an interesting discovery was made by archaeologists on the Aegean
 
 不久之前，在爱琴海的亚基岛上，考古学家们有一个很有趣的发现。一支美国的科考队在阿伊亚·依里尼海的一座古城里发现了一座庙宇。
 
+    
+
+    
+
 
 
 The city at one time must have been prosperous, for it enjoyed a high level of civilization Houses--often three stories high--were built of stone.
@@ -12,7 +16,9 @@ PS：at one time, 一度
 
 PS++: must have been，过去一定很...
 
+    
 
+    
 
 
 
@@ -20,7 +26,9 @@ They had large rooms with beautifully decorated walls. The city was even equippe
 
 房间很大，墙壁装饰华丽。城里一度铺设了排水系统，因为在狭窄的街道底下发现了许许多多陶土制作的排水管道。
 
+    
 
+    
 
 
 
@@ -28,7 +36,9 @@ The temple which the archaeologists explored was used as a place of worship from
 
 考古学家考察的这座庙宇从公元前15世纪直至罗马时代一直是祭祀的场所，在庙宇中最神圣的一间殿堂，发现了15尊陶制雕像的碎片。
 
+    
 
+    
 
 
 
@@ -38,7 +48,9 @@ Each of these represented a goddess and had, at one time, been printed. The body
 
 PS: date from，追溯到。。。
 
+    
 
+    
 
 
 
@@ -50,7 +62,9 @@ PS：Classical times, 在西方就指古希腊和古罗马。
 
 PS++：turn out to be ...，被证明是。。。
 
+    
 
+    
 
 
 

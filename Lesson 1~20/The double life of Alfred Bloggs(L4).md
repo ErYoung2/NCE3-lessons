@@ -2,11 +2,9 @@ These days, people who do manual work often receive far more money than people w
 
 如今，做手工活儿的人们通常比坐办公室的人们拿到更多的薪水。
 
+    
 
-
-
-
-
+    
 
 
 
@@ -16,9 +14,9 @@ People who work in offices are frequently referred to as 'white-collar workers' 
 
 PS: refer to，被称为...，参考...
 
+    
 
-
-
+    
 
 
 
@@ -32,9 +30,9 @@ PS++: the privilege of...， ...的殊荣。
 
 PS++++: This can give rise to curious situations, ...会引来奇怪的现象
 
+    
 
-
-
+    
 
 
 
@@ -44,9 +42,9 @@ When he got married, Alf was too embarrassed to say anything to his wife about h
 
 PS：too ... to， 太...以至于不能...
 
+    
 
-
-
+    
 
 
 
@@ -54,9 +52,9 @@ Every morning, he left home dressed in a smart black suit. He then changed into 
 
 他每天早晨离开家时，都会穿一件很时髦的黑色西装。 然后换上工作服，当8个小时的清洁工。
 
+    
 
-
-
+    
 
 
 
@@ -66,9 +64,9 @@ Before returning home at home, he took a shower and changed back into his suit. 
 
 PS：fellow, 簇拥，伙伴，此处译为“同事”。
 
+    
 
-
-
+    
 
 
 
@@ -76,9 +74,9 @@ Alf's wife has never discovered that she married a dustman and she never will, f
 
 但是艾尔弗的妻子从未发现，而且也不可能再发现他与一个清洁工结了婚，因为艾尔弗找到了另一份坐办公室的工作。
 
+    
 
-
-
+    
 
 
 
