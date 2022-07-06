@@ -3,9 +3,15 @@ The expensive shops in a famous near Piccadilly were just opening. At that time 
 
 
 
+
+
+
 Mr.Tarlor, the owner of a jewelry shop was admiring a new window display. Two of his assistance had been working busily since eight'o clock and had only just finished.
 珠宝店的老板，泰勒先生，正在欣赏新布置的橱窗展览。他的两个助手从八点开始忙，总算忙完了。
 PS: had been doing，过去进行时。表示过去某段时间正在进行什么事情。
+
+
+
 
 
 
@@ -15,9 +21,17 @@ PS: gaze at, sth，注视/凝视。。。
 
 
 
+
+
+
+
 The silence was suddenly broken when a large car, with its headlights on and its horn blaring, roared down the arcade.
 当一辆开着头灯、响着喇叭的大车呼啸着冲过拱道时，宁静被突然打破。
 PS: with引导的伴随状语，修饰car
+
+
+
+
 
 
 
@@ -26,8 +40,12 @@ It came to a stop outside the jeweler's. One man stayed at the wheel while two o
 
 
 
+
+    
 While this was going on, Mr. Taylor was upstairs. He and his staff  began throwing furniture out of the window. Chairs and the tables went flying into the arcade.
 当抢案发生的时候，泰勒先生在楼上。他和助手开始将家具丢出窗户。桌子、椅子都飞向了拱道。
+
+
 
 
 
@@ -37,8 +55,10 @@ PS：help oneself to/doing...，沉迷某物/做某事，不可自拔。这里�
 
 
 
+
+
 Just as it was leaving, Mr. Tarlor rushed out and ran after it throwing ashtrays and vases, but it was impossible to stop the thieves. They had got away with thousands of pounds worth of diamonds.
 当匪徒离开的时候，泰勒先生冲出去追他们，并用烟灰缸和花瓶丢他们。但是这并不能阻止这伙抢匪。他们已经带着价值成千上万英镑的钻石跑路了。
 
-    
+
  

@@ -3,11 +3,17 @@ Editors of newspapers and magazines often go to extremes to provide their reader
 PS: go to extremes, 走向极端
 
 
+    
+
+
 
 Last year a journalist had been instructed by a wall-known magazine to write an article on the president's palace in a new African republic.
 去年一名记者就受一家知名杂志委托，写了一篇关于非洲某个新成立共和国总统官邸的文章。
 When the article arrived, the editor read the first sentence and then refused to publish it.
 当稿子寄来后，编辑才看到第一句话，就拒绝刊登他。
+
+
+
 
 
 
@@ -23,8 +29,14 @@ PS：set out，出发
 
 
 
+
+
+
 He sent the journalist two more faxes, but received no reply. He sent yet another fax informing the journalist that if he didn't reply soon he would be fired.
 他又发了两封传真给记者，但是都没有回音。于是，他又发了一封传真，通知记者如果不迅速恢复的话，记者会被炒掉。
+
+
+
 
 
 
@@ -34,10 +46,16 @@ PS：as it had originally been written, 按照它原来被写成的样子，意�
 
 
 
+
+
+
 A week later, the editor at last received a fax from the journalist. Not only had the poor man been arrested, but he had been sent to prison as well. 
 一周后，编辑最终收到了记者发来的传真。这个可怜的人不仅被警察逮捕，而且还被投入了监狱。
 PS：Not only, but only... 不仅...,而且...
 PS++: 否定意义的副词做句首，句子完全倒装。
+
+
+
 
 
 
