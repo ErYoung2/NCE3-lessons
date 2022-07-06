@@ -44,5 +44,5 @@ PS++: 否定意义的副词做句首，句子完全倒装。
 However, he had at last been allowed to send a fax in which he informed the editor that he had been arrested while counting the 1084 steps leading to the fifteen-foot wall which surrounded the president's palace.
 而他最终还是获准传回一封传真，在传真中他通知编辑，他在数通向十五英尺高的总统府高墙的1084级台阶时，被抓了起来。
 
-    
+
  
