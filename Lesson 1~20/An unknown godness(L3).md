@@ -6,8 +6,6 @@ Some time ago, an interesting discovery was made by archaeologists on the Aegean
 
     
 
-
-
 The city at one time must have been prosperous, for it enjoyed a high level of civilization Houses--often three stories high--were built of stone.
 
 这座古城肯定一度非常繁荣，因为它曾享有高度的文明，房屋一般有3层楼高，且用石头建造。
@@ -20,8 +18,6 @@ PS++: must have been，过去一定很...
 
     
 
-
-
 They had large rooms with beautifully decorated walls. The city was even equipped with a drainage system, for a great many clay pipes were found beneath the narrow streets.
 
 房间很大，墙壁装饰华丽。城里一度铺设了排水系统，因为在狭窄的街道底下发现了许许多多陶土制作的排水管道。
@@ -30,8 +26,6 @@ They had large rooms with beautifully decorated walls. The city was even equippe
 
     
 
-
-
 The temple which the archaeologists explored was used as a place of worship from fifteenth century B.C. until Roman times. In the most sacred room of the temple, clay fragments of fifteen status were found.
 
 考古学家考察的这座庙宇从公元前15世纪直至罗马时代一直是祭祀的场所，在庙宇中最神圣的一间殿堂，发现了15尊陶制雕像的碎片。
@@ -39,8 +33,6 @@ The temple which the archaeologists explored was used as a place of worship from
     
 
     
-
-
 
 Each of these represented a goddess and had, at one time, been printed. The body of one status was found among remains dating from the fifteenth century B.C. Its missing head happened to be among remains of the fifth century B.C.
 
@@ -51,8 +43,6 @@ PS: date from，追溯到。。。
     
 
     
-
-
 
 This head must have been found in Classical times and carefully preserved. It was very old and precious even then. When the archaeologists reconstructed the fragments, they were amazed to find that the goddess return out to be a very modern-looking woman.
 
@@ -65,8 +55,6 @@ PS++：turn out to be ...，被证明是。。。
     
 
     
-
-
 
 She stood three feet high and her hands rested on her lip. She was wearing a full-length skirt which swept the ground. Despite her great age, she was very graceful indeed, but, so far, the archaeologists have been unable to discover her identity.
 

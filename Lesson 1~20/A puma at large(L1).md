@@ -4,8 +4,6 @@ Pumas are large, cat-like animals which are found in America. When reports came 
 
  &nbsp;
 
- 
-
 However. at the evidence began to accumulate, experts from the Zoo felt obliged to investigate, for the descriptions given by people who claimed to have seen the puma were extraordinary similar.
 
 然而，随着证据越来越多，动物园的专家们觉得他们有义务去调查一下。因为凡是声称见过这匹美洲狮的人们的描述的情况，竟然都出奇地相似。
@@ -57,5 +55,3 @@ The hunt went on for several weeks, but the puma was not caught. It is disturbin
 搜寻工作持续了几周，美洲狮仍没有找到。想到在宁静的乡村有这么一只野生的动物在逃，真叫人担心。
 
 PS: at large是在逃的意思。
-
- 
