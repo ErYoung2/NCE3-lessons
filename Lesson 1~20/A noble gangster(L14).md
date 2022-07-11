@@ -12,8 +12,6 @@ PS++++: put a man out of business, 使某人破产，也可以用make sb bankrup
 
     
 
-
-
 Obtaining 'protection money' is not a modern crime. As long ago as the fourteenth century, an Englishman, Sir John Hawkwood, made the remarkable discovery that people would rather pay large sums of money than have their life work destroyed by gangsters.
 
 交“保护费”并不是一种现代的犯罪方式，早在14世纪，约翰·霍克伍德先生就有一个非凡的发现：人们宁愿叫巨额保护费，也不愿意让毕生心血毁于强盗之手。
@@ -26,8 +24,6 @@ PS++：life work，毕生心血
 
     
 
-
-
 Six hundred years ago, Sir John Hawkwood arrived in Italy with a band of soldiers and settled near Florence. He soon made a name for himself and came to be known to the Italians as Giovanni Acuto.
 
 六百年前，约翰·霍克伍德先生带了一队士兵来到意大利，并驻扎在佛罗伦萨附近。他立刻就出名了，意大利人叫他吉范尼·阿克托。
@@ -38,8 +34,6 @@ PS：make a name for oneself, 使某人出名
 
     
 
-
-
 Whenever the Italian city-states were at war with each other, Hawkwood used to hire his soldiers to princes who were willing to pay the high price he demanded.
 
 但凡意大利城邦之间发生战争，霍克伍德先生就会把他的士兵租给那些愿意给他高价的君主们。
@@ -47,8 +41,6 @@ Whenever the Italian city-states were at war with each other, Hawkwood used to h
     
 
     
-
-
 
 In times of peace, when business was bad, Hawkwood and his men would march into a city-state and, after burning down a few farms, would offer to go away if protection money was paid to them.
 
@@ -62,8 +54,6 @@ PS++: march into, （大摇大摆地）闯入
 
     
 
-
-
 Hawkwood made large sums of money in this way. In spite of this, the Italians regarded him as a sort of hero. When he died at the age of eighty, the Florentines gave him a state funeral and had a picture painted which was dedicated to the memory of 'the most valiant soldier and most notable leader, Signor Giovanni Haukodue'.
 
 霍克伍德先生通过这种方式大量敛财。尽管如此，意大利人仍视他为英雄。当他80岁去世的时候，佛罗伦萨人给予他国葬待遇，并画了一幅画，以纪念这位“骁勇无比的战士和最伟大的领袖，乔范尼·阿库托先生”。
@@ -74,13 +64,15 @@ PS++：state funeral，国葬
 
 PS++++：be dedicated to，致力于，以...
 
-PS++++++：补充一下英国享受过国葬的非王室成员
+
 
     
 
     
 
-补充：
+
+
+补充一下英国享受过国葬的非王室成员
 
 1657           Robert Blake              海军将领                                        死于与西班牙的海战中，享年59岁
 
