@@ -41,7 +41,8 @@ The public bet a great deal of money on Mendoza, but he was defeated. Mendoza me
 PS：bet a great deal of money on，将大量金钱押注在某人身上。
 
 It was not until his third match in 1790 that he finally beat Humphries and became Champion of England. Meanwhile, he founded a highly successful Academy and even Lord Byron became one of his pupils.
-
+  
+  
 直至1790年他们的第三次对垒，门多萨才打败汉弗莱斯夺得全英拳击冠军。同时，他建立了一所拳击学校，办得很成功，连拜伦勋爵都成为了他的学生。
 
 PS：It was not until his third match in 1790 that he finally beat Humphries and became Champion of England. 强调句，强调his third match in 1790，去掉it was ... that 不影响句意的表达。
